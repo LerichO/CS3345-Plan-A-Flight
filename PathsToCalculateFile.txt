@@ -1,0 +1,8 @@
+7
+Miami|Denver|T
+Houston|San Francisco|C
+Dallas|Houston|T
+Austin|New York|C
+Denver|Los Angeles|T
+Chicago|Dallas|C
+Toronto|Orlando|T

@@ -1,0 +1,30 @@
+Flight 1: Miami, Denver (Time)
+Path 1: Miami -> Orlando -> Denver. Time: 152 Cost: 155.00
+Path 2: Miami -> Orlando -> Dallas -> Denver. Time: 251 Cost: 305.00
+Path 3: Miami -> Washington, D.C. -> Los Angeles -> Seattle -> Denver. Time: 466 Cost: 558.00
+
+Flight 2: Houston, San Francisco (Cost)
+Path 1: Houston -> Los Angeles -> San Francisco. Time: 299 Cost: 373.00
+Path 2: Houston -> Austin -> Chicago -> San Francisco. Time: 303 Cost: 337.00
+
+Flight 3: Dallas, Houston (Time)
+Path 1: Dallas -> Houston. Time: 51 Cost: 101.00
+Path 2: Dallas -> Austin -> Houston. Time: 86 Cost: 193.00
+Path 3: Dallas -> Orlando -> Miami -> Washington, D.C. -> Los Angeles -> Houston. Time: 469 Cost: 586.00
+
+Flight 4: Austin, New York (Cost)
+Path 1: Austin -> Chicago -> New York. Time: 345 Cost: 332.00
+Path 2: Austin -> Houston -> New York. Time: 219 Cost: 305.00
+
+Flight 5: Denver, Los Angeles (Time)
+Path 1: Denver -> Orlando -> Miami -> Washington, D.C. -> Los Angeles. Time: 271 Cost: 318.00
+Path 2: Denver -> Seattle -> Los Angeles. Time: 347 Cost: 395.00
+Path 3: Denver -> Dallas -> Houston -> Los Angeles. Time: 386 Cost: 489.00
+
+Flight 6: Chicago, Dallas (Cost)
+Path 1: Chicago -> Austin -> Dallas. Time: 239 Cost: 242.00
+Path 2: Chicago -> Austin -> Houston -> Dallas. Time: 282 Cost: 340.00
+Path 3: Chicago -> Austin -> Miami -> Orlando -> Dallas. Time: 420 Cost: 430.00
+
+Flight 7: Toronto, Orlando (Time)
+No path could be calculated.

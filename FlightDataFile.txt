@@ -1,0 +1,22 @@
+21
+Dallas|Austin|98|47
+Houston|Los Angeles|253|217
+Chicago|New York|188|153
+San Francisco|Los Angeles|120|82
+Miami|Orlando|60|45
+Seattle|Denver|175|160
+Denver|Seattle|101|99
+Austin|Houston|95|39
+Miami|Washington, D.C.|85|63
+Orlando|Dallas|110|88
+Denver|Dallas|135|118
+Chicago|San Francisco|98|72
+Orlando|Miami|55|40
+Dallas|Houston|101|51
+Austin|Chicago|144|192
+Orlando|Denver|95|107
+New York|Chicago|175|160
+Los Angeles|Seattle|220|187
+Houston|New York|210|180
+Washington, D.C.|Los Angeles|78|56
+Austin|Miami|116|95
