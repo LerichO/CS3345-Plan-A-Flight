@@ -16,7 +16,7 @@ Dallas|Houston|101|51
 Austin|Chicago|144|192
 </pre>
 
-Each individual flight is then added to a graph data structure built represented by an adjacency list consisting of a list of origin cities and the respective list flights originating out of each city.
+Each individual flight is then added to a graph data structure represented by an adjacency list consisting of a list of origin cities and the respective list flights originating out of each city.
 
 Requested flight paths will be read from the lines of `PathsToCalculateFile.txt`, where the first line denotes the number of paths requested followed by each line containing individual requests formatted as `origin city|destination city|sort by time (T) or by cost (C)`. The top three paths will be calculated for each requested path, depending on if it is sorted by time or cost. An example input file is show below:
 
