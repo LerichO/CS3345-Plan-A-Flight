@@ -28,7 +28,7 @@ Chicago|Dallas|C
 
 ## Execution
 
-All java files and input files should be kept in the same directory before compilation and execution. Enter the following two commands in the directory to compile and execute the program; the `flightPlan` java class file will be run with the .txt file of flight data, .txt file of requested flights, and the name of the output file as arguments.
+All java files and input files should be kept in the same directory before compilation and execution. Enter the following two commands in the directory to compile and execute the program. The `flightPlan` java class file will be run with the .txt file of flight data, .txt file of requested flights, and the name of the output file as arguments.
 
 <pre>
 $ javac flightPlan.java
